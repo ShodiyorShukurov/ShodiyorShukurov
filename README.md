@@ -1,6 +1,6 @@
 # Hi, I'm Shodiyor 👋
 
-**Frontend Developer** from Tashkent, Uzbekistan — building fintech & AI web applications with **React**, **Next.js**, and **TypeScript**.
+**Frontend Developer** from Tashkent, Uzbekistan — building fintech & AI web applications with **React**, **Next.js**, and **TypeScript**
 
 - 💼 Currently at **Hisobchi AI** — an AI-powered personal finance platform (Telegram Mini Apps & web)
 - ⚡ Performance-minded: code-splitting, lazy loading, and bundle audits — I've cut initial bundle sizes by up to 90%
